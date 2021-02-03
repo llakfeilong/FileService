@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0872c67-e351-4af4-801c-d075a07c8496" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Development\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1m5MTzqcgGvfUupckLqR6posOoU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="configurable..is.expanded" value="true" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gin-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice\sqlScript\increment" />
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice\sqlScript\initial" />
+      <recent name="D:\Development\GoWorkSpace\src\com.th.fileservice\config" />
+      <recent name="D:\Development\GoWorkSpace\src\com.th.fileservice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice\httpMux" />
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice\controller" />
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice\sqlScript\initial" />
+      <recent name="D:\Development\GoWorkSpace\com.th.fileservice" />
+      <recent name="D:\Development\GoWorkSpace\src\com.th.fileservice\config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build com.th.fileservice">
+    <configuration name="go build FileServiceApplication.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="com.th.fileservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/FileServiceApplication.go" />
+      <package value="com.th.fileservice" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build com.th.fileservice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="com.th.fileservice" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/FileServiceApplication.go" />
+      <package value="com.th.fileservice" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build com.th.fileservice" />
+        <item itemvalue="Go Build.go build FileServiceApplication.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0872c67-e351-4af4-801c-d075a07c8496" name="Default Changelist" comment="" />
+      <created>1608779012249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608779012249</updated>
+      <workItem from="1608779013366" duration="14040000" />
+      <workItem from="1608820484808" duration="3017000" />
+      <workItem from="1608857125006" duration="16795000" />
+      <workItem from="1608886320436" duration="90000" />
+      <workItem from="1608886416956" duration="2411000" />
+      <workItem from="1608975010962" duration="4521000" />
+      <workItem from="1609038298047" duration="7740000" />
+      <workItem from="1609116277353" duration="8383000" />
+      <workItem from="1609138820166" duration="2868000" />
+      <workItem from="1609146154609" duration="1874000" />
+      <workItem from="1609148309801" duration="2284000" />
+      <workItem from="1609156882612" duration="5422000" />
+      <workItem from="1609171845674" duration="4357000" />
+      <workItem from="1609201889615" duration="19058000" />
+      <workItem from="1609247400563" duration="11682000" />
+      <workItem from="1609745641302" duration="6215000" />
+      <workItem from="1609766544340" duration="2755000" />
+      <workItem from="1609812743645" duration="14959000" />
+      <workItem from="1609850224238" duration="3443000" />
+      <workItem from="1609901024683" duration="24196000" />
+      <workItem from="1609980856493" duration="25951000" />
+      <workItem from="1610029207413" duration="7261000" />
+      <workItem from="1610070822098" duration="15562000" />
+      <workItem from="1610099646683" duration="3000" />
+      <workItem from="1610431404887" duration="9058000" />
+      <workItem from="1610460590522" duration="1629000" />
+      <workItem from="1610498177517" duration="16130000" />
+      <workItem from="1610544425941" duration="9092000" />
+      <workItem from="1610633457920" duration="5393000" />
+      <workItem from="1610671993275" duration="11821000" />
+      <workItem from="1610883621596" duration="326000" />
+      <workItem from="1610884087022" duration="463000" />
+      <workItem from="1610884646637" duration="326000" />
+      <workItem from="1610884993904" duration="1435000" />
+      <workItem from="1610886550457" duration="11790000" />
+      <workItem from="1610931086683" duration="18821000" />
+      <workItem from="1610980764911" duration="3246000" />
+      <workItem from="1611017251218" duration="9173000" />
+      <workItem from="1611045380249" duration="653000" />
+      <workItem from="1611046046664" duration="2774000" />
+      <workItem from="1611063342176" duration="7731000" />
+      <workItem from="1611106017859" duration="14327000" />
+      <workItem from="1611151364102" duration="7553000" />
+      <workItem from="1611191945708" duration="16597000" />
+      <workItem from="1611213667840" duration="2215000" />
+      <workItem from="1611216719831" duration="3296000" />
+      <workItem from="1611220239502" duration="1211000" />
+      <workItem from="1611241454431" duration="2542000" />
+      <workItem from="1611276173574" duration="28000" />
+      <workItem from="1611297398548" duration="2987000" />
+      <workItem from="1611390551573" duration="21000" />
+      <workItem from="1611754208382" duration="5446000" />
+      <workItem from="1611794597958" duration="15978000" />
+      <workItem from="1611836049202" duration="4217000" />
+      <workItem from="1611880642905" duration="7886000" />
+      <workItem from="1612273539586" duration="3559000" />
+      <workItem from="1612280353727" duration="67000" />
+      <workItem from="1612282223983" duration="1102000" />
+      <workItem from="1612323075162" duration="1180000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
